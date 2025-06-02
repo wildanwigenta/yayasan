@@ -46,7 +46,6 @@
                             <!-- <a href="<?= base_url('About/delete/'.$row->id_about.'/'.$row->gambar) ?>" class="btn btn-danger" onclick="return confirm('Apakah anda yakin')">Delete</a> -->
                         </td>
                     </tr>
-
                 <?php } ?>
                 </tbody>
             </table>
