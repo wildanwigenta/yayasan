@@ -179,14 +179,7 @@
                 <p>Lorem ipsum dolor sit amet elit. hic odio tenetur. ante ipsum primis in
                   faucibus orci luctus.Vivamus a ligula quam tesque et libero ut justo, ultrices in. </p>
               </div>
-              <div class="bottom-info mt-4">
-                <a class="comment-img" href="#url"><img src="assets/images/team1.jpg" class="img-responsive"
-                    alt="placeholder image"></a>
-                <div class="people-info align-self">
-                  <h3>Johnson william</h3>
-                  <p class="identity">Example City</p>
-                </div>
-              </div>
+              
             </div>
           </div>
           <div class="item">
