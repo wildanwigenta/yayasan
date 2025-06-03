@@ -137,7 +137,6 @@
           <h3 class="title-w3l mb-sm-5 mb-4 pb-lg-2" style="font-size:25px;">Donasi</h3>
         </div>
         <div class="content-info-in row">
-
         <div class="col-lg-2"></div>
           <div class="content-left col-lg-8 d-inline justify-content-center">
             <h5 style="text-align:center" >Donasi Masuk Bulan Ini</h5>
