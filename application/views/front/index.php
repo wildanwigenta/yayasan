@@ -161,25 +161,7 @@
   </section>
   
   
-  <!-- testimonials section -->
-  <!-- <section class="w3l-clients w3l-test pb-5" id="testimonials">
-    <div class="midd-w3 py-5">
-      <div class="container py-lg-5 py-md-4 pt-2 pb-lg-5">
-        <div class="title-content text-center">
-          <h6 class="title-subhny text-center">Happy Clients</h6>
-          <h3 class="title-w3l mb-sm-5 mb-4 pb-sm-o pb-2 text-center">What Our Clients Say</h3>
-        </div>
-        <div id="owl-demo2" class="owl-carousel owl-theme mt-4 py-md-2 mb-md-4">
-          <div class="item">
-            <div class="testimonial-content">
-              <div class="testimonial">
-                <blockquote>
-                  <q>Pellen tesque libero ut justo</q>
-                </blockquote>
-                <p>Lorem ipsum dolor sit amet elit. hic odio tenetur. ante ipsum primis in
-                  faucibus orci luctus.Vivamus a ligula quam tesque et libero ut justo, ultrices in. </p>
-              </div>
-              
+ 
             </div>
           </div>
           <div class="item">
